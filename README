@@ -1,0 +1,7 @@
+deactivated
+
+by: aarona
+
+This gem replaces the process of how Rails deletes records.
+Instead of deleting these records, it will set a bit in the record to true.
+(i.e. it will deactivate the record.)
